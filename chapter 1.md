@@ -19,7 +19,7 @@ B. wavelength = 3 m, amplitude = 0.3 m, frequency = 0.33 Hz
 C. wavelength = 3 m, amplitude = 0.25 m, frequency = 3 Hz  
 D. wavelength = 3 m, amplitude = 0.3 m, frequency unknown
 
-Diagram provided separately.
+[DIAGRAM PLACEHOLDER: insert the wave-properties graph here.]
 
 ## Question 4 - 1 mark
 
@@ -43,7 +43,7 @@ B. wavelength of the light
 C. all electromagnetic waves  
 D. absorbed light by the atmosphere
 
-Spectrum diagram provided separately.
+[DIAGRAM PLACEHOLDER: insert the spectrum with missing wavelengths here.]
 
 ## Question 9 - 1 mark
 
@@ -68,11 +68,7 @@ C. 2.25 × 10⁸ m s⁻¹
 
 A ray of light is observed to bend when passing between two transparent liquids. Calculate the angle of refraction of the ray if it has an incident angle of 42.0°.
 
-Diagram details:
-
-- n₁ = 1.32
-- n₂ = 1.40
-- incident angle = 42.0°
+[DIAGRAM PLACEHOLDER: insert the ray diagram here. Visible diagram values: n₁ = 1.32, n₂ = 1.40, incident angle = 42.0°.]
 
 ## Question 18 - 2 marks
 
@@ -94,8 +90,41 @@ The following graph relates to a transverse wave in a string that is moving to t
 a. In what direction (up, down, left, right) are the particles located at positions A, B and C moving at the instant shown? If a particle is not moving, write 'not moving'. (3 marks)  
 b. What will be the location of particle A after another period has passed? (1 mark)
 
-Wave graph provided separately.
+[DIAGRAM PLACEHOLDER: insert the transverse wave graph with points A, B and C here.]
+
+## Question 15 (2 MARKS)
+
+A set of speakers at a school assembly are driving sound waves at a frequency of 135 Hz. Calculate the resulting wavelength in metres (m), assuming the speed of sound in air is 340 m s⁻¹.
+
+Adapted from 2018 VCAA exam Short answer Q11a
+
+## Question 16 (2 MARKS)
+
+A ray of light passes through the boundary between air (n = 1.00) and glass. The incident angle is 45.0° and the refracted angle is 30.0°. Calculate the refractive index of the glass.
+
+## Question 17 (2 MARKS)
+
+A cruise ship’s instruments determine the time between the crests of a series of massive waves is T = 30.0 s and the distance between them, or wavelength, is λ = 500 m.
+
+a. Calculate the speed the wave is travelling in m s⁻¹. (1 MARK)  
+b. Calculate the frequency of the wave in Hz. (1 MARK)
+
+## Question 23 (2 MARKS)
+
+A student is using waves to determine the identity of an unknown gas.
+
+They measure that the frequency of sound waves through the gas is 534 Hz and the wavelength is 0.500 m. Calculate the speed of the wave, and hence determine which gas the sound is passing through.
+
+| Gas | Speed of sound (m s⁻¹) |
+|---|---:|
+| Helium | 1007 |
+| Krypton | 221 |
+| Hydrogen | 1270 |
+| Nitrogen | 349 |
+| Oxygen | 326 |
+| Carbon dioxide | 267 |
 
 ## Total
 
-Total extracted Chapter 1 load: 17 marks.
+
+Total extracted Chapter 1 load: 25 marks.

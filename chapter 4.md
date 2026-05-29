@@ -91,6 +91,37 @@ A particular beta seed emits 0.060 Gy of radiation incident on a person’s stom
 a. Calculate the effective and equivalent doses absorbed. (2 MARKS)  
 b. Comment on whether this radiation absorption is likely to have any short term effects on the person. (1 MARK)
 
+## Question 3 - 1 mark estimated
+
+The atomic number of lead is 82. Lead-210 is a radioactive isotope that decays by two β⁻ emissions followed by an α emission. Which of the following graphs best represents this decay process?
+
+[DIAGRAM PLACEHOLDER: insert graph options A, B, C and D here.]
+
+## Question 4 - 1 mark estimated
+
+A substance has a half-life of 10 years. How long does it take for the activity of the substance to decrease by 75% from its original value?
+
+A. 7.5 years  
+B. 13.3 years  
+C. 15 years  
+D. 20 years
+
+## Question 5 - 1 mark estimated
+
+A source of radiation is outside the human body. Choose the answer that lists the ionising impact of each type of radiation from most to least dangerous.
+
+A. alpha, beta, gamma  
+B. beta, gamma, alpha  
+C. gamma, beta, alpha  
+D. gamma, alpha, beta
+
+## Question 24 (2 MARKS)
+
+A plate roller is used to produce sheet metal of a desired thickness. By placing a source of beta particles below the sheet of metal, a detector can measure the number passing through. Explain how this design can be used to detect and adjust when the sheet metal being made is too thick.
+
+[DIAGRAM PLACEHOLDER: insert the plate roller, detector and β⁻ particle source diagram here.]
+
 ## Total
 
-Total extracted Chapter 4 load: 34 marks.
+
+Total extracted Chapter 4 load: 39 marks.

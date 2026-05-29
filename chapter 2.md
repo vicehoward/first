@@ -64,10 +64,29 @@ An oven mitt at 300 K is in direct contact with a hot plate at 340 K, and heat i
 a. Calculate the heat released as the oxygen condenses to liquid. (2 MARKS)  
 b. The total amount of heat released to the surroundings as the oxygen condenses and cools is measured to be 2.0 × 10⁵ J. How much of this thermal energy was released as a result of cooling (as opposed to condensing)? (2 MARKS)
 
+## Question 13 (2 MARKS)
+
+The surface of the planet Mercury can reach temperatures as high as 450°C during the day, and as low as −170°C at night. This large variation occurs because Mercury does not have an atmosphere to trap the thermal energy during the night.
+
+a. Convert the minimum night time temperature on Mercury to kelvin. (1 MARK)  
+b. Calculate the temperature range (the difference between the maximum and minimum temperatures) of the surface of Mercury. Provide your answer in kelvin. (1 MARK)
+
+## Question 16 (2 MARKS)
+
+A backyard pool and an Olympic swimming pool (which is much larger than the backyard pool) are both at a temperature of 26°C.
+
+a. Compare the internal energy of the water in the backyard pool with the internal energy of the water in the Olympic pool. (1 MARK)  
+b. Compare the average translational kinetic energy of the water molecules in the backyard pool with the average translational kinetic energy of the molecules in the Olympic pool. (1 MARK)
+
+## Question 16 (2 MARKS)
+
+Calculate the heat absorbed by a graphite tennis racquet that has a mass of 0.30 kg when its temperature increases by 4.0°C. Take the specific heat capacity of graphite to be 7.2 × 10² J kg⁻¹ K⁻¹.
+
+## Question 17 (2 MARKS)
+
+The element in a toaster consists of 15.0 grams of nichrome wire. Electricity passing through the wire absorbs 5500 J of thermal energy to the wire in a short period of time. Take the specific heat capacity of nichrome to be 450 J kg⁻¹ K⁻¹. Calculate the increase in temperature of the wire.
+
 ## Total
 
-Total extracted Chapter 2 load: 16 marks.
 
-## Coverage note
-
-This is enough total mark value for the earlier suggested Chapter 2 load of 16 marks. However, the mark distribution is not the same as the earlier target: this set has six 1-mark questions, two 3-mark questions, and one 4-mark question, with no standalone 2-mark questions except the two 2-mark parts inside Question 18.
+Total extracted Chapter 2 load: 24 marks.
