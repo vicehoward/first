@@ -11,7 +11,7 @@ Overflow questions not used in Mock Exam 1. Time allocation is calculated using 
 
 ## Section B: Short Answer Questions
 
-### Question 1 (Chapter 4, source Question 18 (8 MARKS)) - 8 marks
+### Question 1 (Chapter 4, source Question 18) - 8 marks
 
 Fill in the blanks in the following decay equations with the appropriate parent nuclide.
 
