@@ -14,9 +14,9 @@ Format based on the original SAC/test: a multiple-choice section followed by a s
 | Section | Questions | Marks |
 |---|---:|---:|
 
-| Section A: Multiple Choice Questions | 32 | 32 |
+| Section A: Multiple Choice Questions | 31 | 31 |
 
-| Section B: Short Answer Questions | 25 | 75 |
+| Section B: Short Answer Questions | 26 | 76 |
 
 | **Total** | **57** | **107** |
 
@@ -53,11 +53,7 @@ B. transverse pressure wave transmitting wave maxima from a source to a receiver
 C. longitudinal pressure wave transmitting energy from a source to a receiver.  
 D. transverse pressure wave transmitting energy from a source to a receiver.
 
-### Question 4 (Chapter 1, source Question 7) - 1 mark
-
-A light-year is the distance light travels in a year and is a common unit of measurement to use when describing astronomical scales. Assuming that an average year has 365 days, convert 0.75 light-years to metres.
-
-### Question 5 (Chapter 1, source Question 8) - 1 mark
+### Question 4 (Chapter 1, source Question 8) - 1 mark
 
 Some spectroscopes might show black lines on the spectrum as shown. What do these black lines represent?
 
@@ -68,7 +64,7 @@ D. absorbed light by the atmosphere
 
 [DIAGRAM PLACEHOLDER: insert the spectrum with missing wavelengths here.]
 
-### Question 6 (Chapter 1, source Question 9) - 1 mark
+### Question 5 (Chapter 1, source Question 9) - 1 mark
 
 Which of the following correctly describes why total internal reflection occurs?
 
@@ -77,7 +73,7 @@ B. Because the angle of refraction would be over 90 degrees, the light refracts 
 C. Because the angle of refraction would be over 90 degrees, the light cannot be transmitted into the second medium and thus all light is reflected into its initial medium.  
 D. Because light always reflects at a boundary between mediums.
 
-### Question 7 (Chapter 1, source Question 10) - 1 mark
+### Question 6 (Chapter 1, source Question 10) - 1 mark
 
 A light wave is travelling in a body of saltwater, which is enclosed in a plastic container. The wavelength and frequency of a light wave in saltwater are 510 nm and 4.085 × 10¹⁴ Hz. Take c = 3.00 × 10⁸ m s⁻¹.
 
@@ -87,7 +83,7 @@ A. 3.00 × 10⁸ m s⁻¹
 B. 2.08 × 10⁸ m s⁻¹  
 C. 2.25 × 10⁸ m s⁻¹
 
-### Question 8 (Chapter 2, source Question 3) - 1 mark
+### Question 7 (Chapter 2, source Question 3) - 1 mark
 
 A laptop is in thermal equilibrium with a smartphone. The smartphone is at the same temperature as a tablet. Choose the statement that best describes this situation.
 
@@ -96,21 +92,21 @@ B. There is no net heat transfer between the smartphone and the tablet.
 C. The laptop is in thermal equilibrium with the tablet.  
 D. All of the above
 
-### Question 9 (Chapter 2, source Question 5) - 1 mark
+### Question 8 (Chapter 2, source Question 5) - 1 mark
 
 The atoms and molecules in ________ objects are constantly moving.
 
 A. very hot  
 B. all
 
-### Question 10 (Chapter 2, source Question 6) - 1 mark
+### Question 9 (Chapter 2, source Question 6) - 1 mark
 
 The lowest possible temperature is ________ K, which is equivalent to ________°C.
 
 A. 0, −273.15  
 B. −273.15, 0
 
-### Question 11 (Chapter 2, source Question 7) - 1 mark
+### Question 10 (Chapter 2, source Question 7) - 1 mark
 
 A change in temperature, ΔT, of 175 K is equivalent to
 
@@ -118,14 +114,14 @@ A. (175 − 273.15)°C.
 B. (175 + 273.15)°C.  
 C. 175°C.
 
-### Question 12 (Chapter 2, source Question 8) - 1 mark
+### Question 11 (Chapter 2, source Question 8) - 1 mark
 
 Which of the following correctly converts 80°C to an absolute temperature?
 
 A. 80 + 273.15 = 353.15 K  
 B. 80 − 273.15 = −193.15 K
 
-### Question 13 (Chapter 2, source Question 9) - 1 mark
+### Question 12 (Chapter 2, source Question 9) - 1 mark
 
 What is temperature a measure of?
 
@@ -134,7 +130,16 @@ B. the total kinetic energy of a system
 C. the internal energy of a system  
 D. the average translational kinetic energy of the particles in a system
 
-### Question 14 (Chapter 3, source Question 5) - 1 mark
+Use the following information to answer Questions 13 and 14.
+
+Four identical objects are at different temperatures.
+
+- Object S: Temperature: 0 K
+- Object T: Temperature: 100 K
+- Object U: Temperature: 1000 K
+- Object V: Temperature: 10 000 K
+
+### Question 13 (Chapter 3, source Question 5) - 1 mark
 
 Which object is releasing the most energy?
 
@@ -143,14 +148,14 @@ B. T
 C. U  
 D. V
 
-### Question 15 (Chapter 3, source Question 6) - 1 mark
+### Question 14 (Chapter 3, source Question 6) - 1 mark
 
 Is there any wavelength where object T is releasing at a greater intensity of energy than object U?
 
 A. Yes, the peak wavelength.  
 B. No, the much hotter object will release more energy at every wavelength.
 
-### Question 16 (Chapter 4, source Question 1) - 1 mark
+### Question 15 (Chapter 4, source Question 1) - 1 mark
 
 Identify what is the parent nuclide in the following alpha decay equation:
 
@@ -160,7 +165,7 @@ A. ²³⁹₉₄Pu
 B. ²³⁵₉₂U  
 C. ⁴₂He
 
-### Question 17 (Chapter 4, source Question 3) - 1 mark
+### Question 16 (Chapter 4, source Question 3) - 1 mark
 
 Which of the following statements is true when describing the half-life for a given sample of a radioisotope?
 
@@ -168,7 +173,7 @@ A. The half-life depends on what the radioisotope is.
 B. The half-life depends on how much of the substance there is.  
 C. The half-life changes as time passes.
 
-### Question 18 (Chapter 4, source Question 4) - 1 mark
+### Question 17 (Chapter 4, source Question 4) - 1 mark
 
 The half-life of a substance is 10 years. How many years does it take for that substance to make up one eighth (1/8th) of its original mass?
 
@@ -176,7 +181,7 @@ A. 20 years
 B. 30 years  
 C. 40 years
 
-### Question 19 (Chapter 4, source Question 6) - 1 mark
+### Question 18 (Chapter 4, source Question 6) - 1 mark
 
 The primary requirement for stability for atoms with 20 or less protons is that
 
@@ -184,7 +189,7 @@ A. there needs to be more protons than neutrons.
 B. there needs to be more neutrons than protons.  
 C. there needs to be approximately the same amount of protons and neutrons.
 
-### Question 20 (Chapter 4, source Question 7) - 1 mark
+### Question 19 (Chapter 4, source Question 7) - 1 mark
 
 The primary requirement for stability for atoms with 84 or more protons is that
 
@@ -192,13 +197,13 @@ A. there needs to be more neutrons than protons.
 B. there needs to be approximately the same amount of protons and neutrons.  
 C. nonexistent, they are all inherently unstable.
 
-### Question 21 (Chapter 4, source Question 3) - 1 mark
+### Question 20 (Chapter 4, source Question 3) - 1 mark
 
 The atomic number of lead is 82. Lead-210 is a radioactive isotope that decays by two β⁻ emissions followed by an α emission. Which of the following graphs best represents this decay process?
 
 [DIAGRAM PLACEHOLDER: insert graph options A, B, C and D here.]
 
-### Question 22 (Chapter 4, source Question 4) - 1 mark
+### Question 21 (Chapter 4, source Question 4) - 1 mark
 
 A substance has a half-life of 10 years. How long does it take for the activity of the substance to decrease by 75% from its original value?
 
@@ -207,7 +212,7 @@ B. 13.3 years
 C. 15 years  
 D. 20 years
 
-### Question 23 (Chapter 4, source Question 5) - 1 mark
+### Question 22 (Chapter 4, source Question 5) - 1 mark
 
 A source of radiation is outside the human body. Choose the answer that lists the ionising impact of each type of radiation from most to least dangerous.
 
@@ -216,7 +221,7 @@ B. beta, gamma, alpha
 C. gamma, beta, alpha  
 D. gamma, alpha, beta
 
-### Question 24 (Chapter 5, source Question 2) - 1 mark
+### Question 23 (Chapter 5, source Question 2) - 1 mark
 
 If a fissile mass is critical, this means that
 
@@ -224,7 +229,7 @@ A. the number of reactions (per unit time) is increasing.
 B. it is going to explode.  
 C. each fission reaction will trigger on average exactly one additional fission reaction.
 
-### Question 25 (Chapter 5, source Question 3) - 1 mark
+### Question 24 (Chapter 5, source Question 3) - 1 mark
 
 The neutron multiplication factor
 
@@ -233,7 +238,7 @@ B. is equal to 1 for a supercritical mass.
 C. increases for a fissile mass if more control rods are inserted into it.  
 D. increases with the availability of fissile material.
 
-### Question 26 (Chapter 5, source Question 4) - 1 mark
+### Question 25 (Chapter 5, source Question 4) - 1 mark
 
 Which of the following statements about binding energy is correct? (Select all that apply)
 
@@ -242,7 +247,7 @@ II. It is stored inside the nucleus of an atom.
 III. It can be plotted against nucleon number on a binding energy curve to compare nucleus stability.  
 IV. none of the above
 
-### Question 27 (Chapter 5, source Question 5) - 1 mark
+### Question 26 (Chapter 5, source Question 5) - 1 mark
 
 Neutron absorption decreases the neutron multiplication factor because
 
@@ -251,7 +256,7 @@ B. control rods absorb neutrons that might otherwise trigger fission reactions.
 
 A new nuclear energy company designs a fission power plant that operates without the use of control rods. They justify this to their investors by saying that in the absence of these control rods, they will be able to produce electricity at an ever increasing rate and dominate the energy market.
 
-### Question 28 (Chapter 5, source Question 7) - 1 mark
+### Question 27 (Chapter 5, source Question 7) - 1 mark
 
 What role do control rods play in fission chain reactions?
 
@@ -259,7 +264,7 @@ A. They slow neutrons down to help the chain reaction propagate.
 B. They absorb neutrons to make it more difficult for the chain reaction to propagate.  
 C. They speed up neutrons to give more energy to the chain reaction.
 
-### Question 29 (Chapter 5, source Question 8) - 1 mark
+### Question 28 (Chapter 5, source Question 8) - 1 mark
 
 Why are control rods important in the operation of nuclear reactors?
 
@@ -267,7 +272,7 @@ A. The fission chain reaction would not propagate without them.
 B. They can decrease the neutron multiplication factor of the fissile fuel, and their use is the most efficient method of doing so.  
 C. They are not important in this context.
 
-### Question 30 (Chapter 5, source Question 9) - 1 mark
+### Question 29 (Chapter 5, source Question 9) - 1 mark
 
 Which of the following are possible outcomes of a fissile mass going highly supercritical with no fast way to reduce its neutron multiplication factor? (Select all that apply)
 
@@ -275,7 +280,7 @@ I. The mass eventually brings itself back to criticality or subcriticality.
 II. The mass causes a nuclear meltdown, potentially damaging its environment.  
 III. The mass will not change and will forever be supercritical.
 
-### Question 31 (Chapter 5, source Question 8) - 1 mark
+### Question 30 (Chapter 5, source Question 8) - 1 mark
 
 Which is closest to the binding energy per nucleon of ⁴₂He?
 
@@ -284,7 +289,7 @@ B. 11 × 10⁻¹³ J
 C. 11 × 10⁻¹¹ J  
 D. 21 J
 
-### Question 32 (Chapter 5, source Question 9) - 1 mark
+### Question 31 (Chapter 5, source Question 9) - 1 mark
 
 Which is closest to the binding energy per nucleon of ³₁H?
 
@@ -295,7 +300,19 @@ D. 15 × 10⁻¹² J
 
 ## Section B: Short Answer Questions
 
-### Question 1 (Chapter 1, source Question 17) - 2 marks
+### Question 1 (Chapter 1, source Question 7) - 1 mark
+
+A light-year is the distance light travels in a year and is a common unit of measurement to use when describing astronomical scales. Assuming that an average year has 365 days, convert 0.75 light-years to metres.
+
+**Answer space:**
+
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+
+### Question 2 (Chapter 1, source Question 17) - 2 marks
 
 A ray of light is observed to bend when passing between two transparent liquids. Calculate the angle of refraction of the ray if it has an incident angle of 42.0°.
 
@@ -309,7 +326,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 2 (Chapter 1, source Question 18) - 2 marks
+### Question 3 (Chapter 1, source Question 18) - 2 marks
 
 Students are using a microwave oven to reheat their food.
 
@@ -326,7 +343,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 3 (Chapter 1, source Question 20) - 2 marks
+### Question 4 (Chapter 1, source Question 20) - 2 marks
 
 A glass fibre has a critical angle of 50° in air. Will total internal reflection still be possible inside the fibre if it is placed in a tub of water with n = 1.33? Assume the refractive index of air is 1.00.
 
@@ -338,7 +355,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 4 (Chapter 1, source Question 21) - 4 marks
+### Question 5 (Chapter 1, source Question 21) - 4 marks
 
 The following graph relates to a transverse wave in a string that is moving to the right.
 
@@ -359,7 +376,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 5 (Chapter 1, source Question 15) - 2 marks
+### Question 6 (Chapter 1, source Question 15) - 2 marks
 
 A set of speakers at a school assembly are driving sound waves at a frequency of 135 Hz. Calculate the resulting wavelength in metres (m), assuming the speed of sound in air is 340 m s⁻¹.
 
@@ -373,7 +390,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 6 (Chapter 1, source Question 16) - 2 marks
+### Question 7 (Chapter 1, source Question 16) - 2 marks
 
 A ray of light passes through the boundary between air (n = 1.00) and glass. The incident angle is 45.0° and the refracted angle is 30.0°. Calculate the refractive index of the glass.
 
@@ -385,7 +402,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 7 (Chapter 1, source Question 17) - 2 marks
+### Question 8 (Chapter 1, source Question 17) - 2 marks
 
 A cruise ship’s instruments determine the time between the crests of a series of massive waves is T = 30.0 s and the distance between them, or wavelength, is λ = 500 m.
 
@@ -400,7 +417,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 8 (Chapter 1, source Question 23) - 2 marks
+### Question 9 (Chapter 1, source Question 23) - 2 marks
 
 A student is using waves to determine the identity of an unknown gas.
 
@@ -423,7 +440,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 9 (Chapter 2, source Question 15) - 3 marks
+### Question 10 (Chapter 2, source Question 15) - 3 marks
 
 Zev is applying an ice pack to his sore head. By first identifying the heat transfer that is occurring, explain how the ice pack cools Zev’s head down.
 
@@ -437,7 +454,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 10 (Chapter 2, source Question 16) - 3 marks
+### Question 11 (Chapter 2, source Question 16) - 3 marks
 
 An oven mitt at 300 K is in direct contact with a hot plate at 340 K, and heat is transferring between them at a rate of 80 J s⁻¹. What difference in temperature would cause the rate to halve to 40 J s⁻¹?
 
@@ -451,7 +468,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 11 (Chapter 2, source Question 18) - 4 marks
+### Question 12 (Chapter 2, source Question 18) - 4 marks
 
 1.5 kg of oxygen is initially in a gaseous state at its boiling point (−183°C). Take the latent heat of fusion of oxygen to be 6.9 × 10³ J kg⁻¹ and the latent heat of vaporisation to be 1.1 × 10⁵ J kg⁻¹.
 
@@ -470,7 +487,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 12 (Chapter 2, source Question 13) - 2 marks
+### Question 13 (Chapter 2, source Question 13) - 2 marks
 
 The surface of the planet Mercury can reach temperatures as high as 450°C during the day, and as low as −170°C at night. This large variation occurs because Mercury does not have an atmosphere to trap the thermal energy during the night.
 
@@ -485,7 +502,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 13 (Chapter 2, source Question 16) - 2 marks
+### Question 14 (Chapter 2, source Question 16) - 2 marks
 
 A backyard pool and an Olympic swimming pool (which is much larger than the backyard pool) are both at a temperature of 26°C.
 
@@ -500,7 +517,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 14 (Chapter 2, source Question 16) - 2 marks
+### Question 15 (Chapter 2, source Question 16) - 2 marks
 
 Calculate the heat absorbed by a graphite tennis racquet that has a mass of 0.30 kg when its temperature increases by 4.0°C. Take the specific heat capacity of graphite to be 7.2 × 10² J kg⁻¹ K⁻¹.
 
@@ -512,7 +529,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 15 (Chapter 2, source Question 17) - 2 marks
+### Question 16 (Chapter 2, source Question 17) - 2 marks
 
 The element in a toaster consists of 15.0 grams of nichrome wire. Electricity passing through the wire absorbs 5500 J of thermal energy to the wire in a short period of time. Take the specific heat capacity of nichrome to be 450 J kg⁻¹ K⁻¹. Calculate the increase in temperature of the wire.
 
@@ -524,7 +541,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 16 (Chapter 3, source Question 14) - 6 marks
+### Question 17 (Chapter 3, source Question 14) - 6 marks
 
 The wavelength-intensity graph for two identical objects, object A and B, is provided.
 
@@ -549,7 +566,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 17 (Chapter 3, source Question 11) - 2 marks
+### Question 18 (Chapter 3, source Question 11) - 2 marks
 
 Calculate the λmax of a star with an average surface temperature of 7.0 × 10³ K. Take Wien’s constant, b, to be 2.898 × 10⁻³ m K.
 
@@ -561,7 +578,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 18 (Chapter 4, source Question 1) - 4 marks
+### Question 19 (Chapter 4, source Question 1) - 4 marks
 
 Circle the correct option for each blank.
 
@@ -579,7 +596,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 19 (Chapter 4, source Question 2) - 3 marks
+### Question 20 (Chapter 4, source Question 2) - 3 marks
 
 For each force, tick the properties it exhibits and cross the ones it doesn’t.
 
@@ -599,7 +616,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 20 (Chapter 4, source Question 14) - 3 marks
+### Question 21 (Chapter 4, source Question 14) - 3 marks
 
 A sample of sodium-24, which has a half-life of 15 hours, has been left in a laboratory for 90 hours. At the present time, the activity of the sample is 5000 Bq. Calculate the activity of the sample when it was first put in the laboratory.
 
@@ -613,7 +630,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 21 (Chapter 4, source Question 17) - 8 marks
+### Question 22 (Chapter 4, source Question 17) - 8 marks
 
 Fill in the blanks in the following decay equations with the appropriate daughter nuclide.
 
@@ -642,7 +659,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 22 (Chapter 4, source Question 18) - 3 marks
+### Question 23 (Chapter 4, source Question 18) - 3 marks
 
 A particular beta seed emits 0.060 Gy of radiation incident on a person’s stomach.
 
@@ -659,7 +676,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 23 (Chapter 4, source Question 24) - 2 marks
+### Question 24 (Chapter 4, source Question 24) - 2 marks
 
 A plate roller is used to produce sheet metal of a desired thickness. By placing a source of beta particles below the sheet of metal, a detector can measure the number passing through. Explain how this design can be used to detect and adjust when the sheet metal being made is too thick.
 
@@ -673,7 +690,9 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 24 (Chapter 5, source Question 10) - 3 marks
+A new nuclear energy company designs a fission power plant that operates without the use of control rods. They justify this to their investors by saying that in the absence of these control rods, they will be able to produce electricity at an ever increasing rate and dominate the energy market.
+
+### Question 25 (Chapter 5, source Question 10) - 3 marks
 
 Using your understanding of control rods and criticality, predict the possible outcomes if this plant were to become operational.
 
@@ -687,7 +706,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 ________________________________________________________________________________
 
-### Question 25 (Chapter 5, source Question 11) - 5 marks
+### Question 26 (Chapter 5, source Question 11) - 5 marks
 
 For each of the following statements, state whether they are true or false.
 
