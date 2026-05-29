@@ -1,0 +1,25 @@
+# Mock Exam 2 - Overflow Questions
+
+Overflow questions not used in Mock Exam 1. Time allocation is calculated using the original SAC/test pace of 64 marks in 1.5 hours.
+
+## Time and marks
+
+- Overflow marks: 8
+- Time per mark: 90 / 64 = 1.406 minutes per mark.
+- Calculated time: 8 × 1.406 = 11.25 minutes.
+- Recommended allocation: about 12 minutes.
+
+## Section B: Short Answer Questions
+
+### Question 1 (Chapter 4, source Question 18 (8 MARKS)) - 8 marks
+
+Fill in the blanks in the following decay equations with the appropriate parent nuclide.
+
+a. __________ → ²²₁₀Ne + ⁰₀γ (2 MARKS)  
+b. __________ → ⁶⁰₂₈Ni + ⁰₋₁e + ⁰₀ν (2 MARKS)  
+c. __________ → ²³³₉₁Pa + ⁴₂He (2 MARKS)  
+d. __________ → ⁷⁴₃₅Br + ⁰₊₁e + ⁰₀ν (2 MARKS)
+
+## Formula and data sheet
+
+[FORMULA AND DATA SHEET PLACEHOLDER: insert the original physics formula and data sheet here.]
