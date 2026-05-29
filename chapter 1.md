@@ -1,6 +1,6 @@
 # Chapter 1
 
-Extracted Chapter 1 questions for the mock exam. Marks have been estimated where they were not visible.
+Extracted Chapter 1 questions for the mock exam. Marks have been estimated where they were not visible. Question wording has been kept as close as possible to the supplied screenshots; diagrams are noted separately where needed.
 
 ## Question 1 - 1 mark
 
@@ -56,42 +56,42 @@ D. Because light always reflects at a boundary between mediums.
 
 ## Question 10 - 1 mark
 
-A light wave is travelling in a body of saltwater, which is enclosed in a plastic container. The wavelength and frequency of a light wave in saltwater are 510 nm and 4.085 x 10^14 Hz. Take c = 3.00 x 10^8 m s^-1.
+A light wave is travelling in a body of saltwater, which is enclosed in a plastic container. The wavelength and frequency of a light wave in saltwater are 510 nm and 4.085 × 10¹⁴ Hz. Take c = 3.00 × 10⁸ m s⁻¹.
 
 What is the speed of the light wave in saltwater?
 
-A. 3.00 x 10^8 m s^-1  
-B. 2.08 x 10^8 m s^-1  
-C. 2.25 x 10^8 m s^-1
+A. 3.00 × 10⁸ m s⁻¹  
+B. 2.08 × 10⁸ m s⁻¹  
+C. 2.25 × 10⁸ m s⁻¹
 
 ## Question 17 - 2 marks
 
-A ray of light is observed to bend when passing between two transparent liquids. Calculate the angle of refraction of the ray if it has an incident angle of 42.0 degrees.
+A ray of light is observed to bend when passing between two transparent liquids. Calculate the angle of refraction of the ray if it has an incident angle of 42.0°.
 
 Diagram details:
 
-- n1 = 1.32
-- n2 = 1.40
-- incident angle = 42.0 degrees
+- n₁ = 1.32
+- n₂ = 1.40
+- incident angle = 42.0°
 
 ## Question 18 - 2 marks
 
 Students are using a microwave oven to reheat their food.
 
-Take the speed of microwaves to be 3.00 x 10^8 m s^-1. The label on the microwave oven claims it produces microwaves of wavelength 0.040 m to 0.060 m.
+Take the speed of microwaves to be 3.00 × 10⁸ m s⁻¹. The label on the microwave oven claims it produces microwaves of wavelength 0.040 m to 0.060 m.
 
 a. Calculate the period of the 0.040 m microwaves. Give an answer in seconds. (1 mark)  
-b. Identify whether electromagnetic waves with lambda = 0.040 m or lambda = 0.060 m have greater energy. (1 mark)
+b. Identify whether electromagnetic waves with λ = 0.040 m or λ = 0.060 m have greater energy. (1 mark)
 
 ## Question 20 - 2 marks
 
-A glass fibre has a critical angle of 50 degrees in air. Will total internal reflection still be possible inside the fibre if it is placed in a tub of water with n = 1.33? Assume the refractive index of air is 1.00.
+A glass fibre has a critical angle of 50° in air. Will total internal reflection still be possible inside the fibre if it is placed in a tub of water with n = 1.33? Assume the refractive index of air is 1.00.
 
 ## Question 21 - 4 marks
 
 The following graph relates to a transverse wave in a string that is moving to the right.
 
-a. In what direction - up, down, left, right - are the particles located at positions A, B and C moving at the instant shown? If a particle is not moving, write "not moving". (3 marks)  
+a. In what direction (up, down, left, right) are the particles located at positions A, B and C moving at the instant shown? If a particle is not moving, write 'not moving'. (3 marks)  
 b. What will be the location of particle A after another period has passed? (1 mark)
 
 Wave graph provided separately.
